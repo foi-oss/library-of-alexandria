@@ -6,15 +6,20 @@ This is a meta-collection of very interesting computer science resources, assemb
 * free-programming-books
 * stackoverflow list's
 * wikibooks
-* ...
+* opencourseware
 
 
 ## Contributing
 
 Fork of, edit materials and send pull requests.
 
+
 ### Todo:
+
 * moar!
+* add materials from sis/moodle
+* edit opencourseware materials (coursera, youtube, mit, standford...)
+
 
 ### Assembled / Maintained by:
 
