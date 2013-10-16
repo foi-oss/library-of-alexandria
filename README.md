@@ -13,6 +13,9 @@ This is a meta-collection of very interesting computer science resources, assemb
 
 Fork of, edit materials and send pull requests.
 
+### Todo:
+* moar!
+
 ### Assembled / Maintained by:
 
 * Samuel Picek
