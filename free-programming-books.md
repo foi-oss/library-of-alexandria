@@ -19,7 +19,7 @@
     * [Mathematics](#mathematics)
     * [Misc](#misc)
     * [Web Performance](#web-performance)
-    * [MOOC](#mooc)
+
 * [Ada](#ada)
 * [Android](#android)
 * [Autotools](#autotools)
@@ -290,10 +290,6 @@
 ####Web Performance
 * [Book of Speed](http://www.bookofspeed.com/index.html) by Stoyan Stefanov
 
-####MOOC
-* [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
-* [Coursera](https://www.coursera.org/)
-* [Udacity](https://www.udacity.com/)
 
 ###Ada
 * [Ada 95: The Craft of Object-Oriented Programming](http://faculty.cs.wwu.edu/reedyc/AdaResources/bookhtml/contents.htm)
